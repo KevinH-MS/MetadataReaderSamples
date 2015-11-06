@@ -1,13 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.IO;
 using System.Reflection.Metadata;
 using System.Reflection.Metadata.Decoding;
 using System.Reflection.PortableExecutable;
-using Microsoft.CodeAnalysis;
 using System.Collections.Immutable;
 
 namespace ReadAssemblyAttributes
